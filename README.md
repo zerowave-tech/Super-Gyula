@@ -13,12 +13,12 @@ The classic we all know, built from scratch in Unity. Jump, stomp Goombas, kick 
 ## 🎮 What's Inside
 
 **Power-Ups & Invincibility**
-- ⭐ **Star** — 10 seconds of invincibility with shimmering colors. Enemies can be wiped out on contact.
-- 🍄 **1UP Mushroom** — an extra life. Don't miss it.
+- ⭐ **Rainbow Apple logo** — 10 seconds of invincibility with shimmering colors. Enemies can be wiped out on contact.
+- 🍄 **original apple logo** — an extra life. Don't miss it.
 
 **Enemies**
-- 🟤 **Goomba** — a single stomp from above is enough.
-- 🐢 **Koopa** — a stomp from above tucks it into its shell; touching the shell launches it, and it takes out other enemies.
+- 🟤 **iphone** — a single stomp from above is enough.
+- 🐢 **apple watch** — a stomp from above tucks it into its shell; touching the shell launches it, and it takes out other enemies.
 - ⚠️ Side contact deals damage; falling into a pit means instant loss of a life.
 
 **Secrets**
