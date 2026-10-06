@@ -6,6 +6,8 @@
 
 The classic we all know, built from scratch in Unity. Jump, stomp Goombas, kick shells, and grab mushrooms — just like childhood, except now you can peek under the hood.
 
+https://github.com/user-attachments/assets/8b1377fc-89e7-4e06-8e09-2e8d8098e9aa
+
 ---
 
 ## 🎮 What's Inside
