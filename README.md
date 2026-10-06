@@ -64,7 +64,9 @@ Assets/
 > And yes — among the enemy scripts you'll find `iphone` and `applew`. Don't ask. 😄
 
 ---
+
 <img width="800" height="450" alt="ezgif-5cbfbd679b64194b" src="https://github.com/user-attachments/assets/3936fd8e-d5c0-4599-a0bb-26a16a0b2884" />
+
 ---
 ## 🛠️ Building from Source
 
