@@ -37,6 +37,8 @@ Scenes in order (Build Settings):
 ---
 
 ## 📁 Project Structure
+
+
 Assets/
 ├── Scenes/ scenes: loadcomp, Main Menu, 1-1
 ├── Scripts/ game logic (C#)
@@ -44,6 +46,7 @@ Assets/
 ├── Sprites/ graphics
 ├── sound/ music and sound effects
 └── Materials/ physics materials (NoFriction)
+
 
 **Key Scripts:**
 
