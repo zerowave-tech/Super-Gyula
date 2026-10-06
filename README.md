@@ -66,6 +66,7 @@ Assets/
 1. Install **Unity Hub** and **Unity 2021.3.40f1**.
 2. Open the project folder through Unity Hub.
 3. Open the scene `Assets/Scenes/loadcomp.unity` and press **Play** — or build the game via `File → Build Settings` (Windows platform).
+Either you may download zip file from folder archive
 
 ---
 
