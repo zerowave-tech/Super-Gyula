@@ -7,7 +7,6 @@
 The classic we all know, built from scratch in Unity. Jump, stomp Goombas, kick shells, and grab mushrooms — just like childhood, except now you can peek under the hood.
 
 <img width="800" height="450" alt="ezgif-50294955b1998404" src="https://github.com/user-attachments/assets/09b8984f-58cb-4d43-bdf4-f2dfd1f7e9e1" />
-<img width="800" height="450" alt="ezgif-5cbfbd679b64194b" src="https://github.com/user-attachments/assets/227401f9-8750-4991-b345-217b1a6c6adf" />
 
 ---
 
@@ -35,7 +34,6 @@ Scenes in order (Build Settings):
 2. **`Main Menu`** — main menu with "Play" and "Quit" buttons.
 3. **`1-1`** — the game level. The one and only.
 
-<img width="800" height="450" alt="ezgif-5cbfbd679b64194b" src="https://github.com/user-attachments/assets/3936fd8e-d5c0-4599-a0bb-26a16a0b2884" />
 ---
 
 ## 📁 Project Structure
@@ -66,7 +64,8 @@ Assets/
 > And yes — among the enemy scripts you'll find `iphone` and `applew`. Don't ask. 😄
 
 ---
-
+<img width="800" height="450" alt="ezgif-5cbfbd679b64194b" src="https://github.com/user-attachments/assets/3936fd8e-d5c0-4599-a0bb-26a16a0b2884" />
+---
 ## 🛠️ Building from Source
 
 1. Install **Unity Hub** and **Unity 2021.3.40f1**.
