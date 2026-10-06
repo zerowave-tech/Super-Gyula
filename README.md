@@ -1,4 +1,4 @@
-# 🍄 Super Mario in Unity — A Fan-Made Platformer
+# 🍄 Super Gyula — A Fan-Made meme game
 
 > "Star — 10 seconds of invincibility with shimmering colors; enemies can be wiped out on contact."
 
