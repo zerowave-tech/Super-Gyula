@@ -2,12 +2,12 @@ using System.Collections;
 using UnityEngine;
 
 public class BlockHit : MonoBehaviour
-{
+{    // 
     public GameObject item;
     public Sprite emptyBlock;
     public int maxHits = -1;
     private bool animating;
-
+    // hit detect
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (!animating && maxHits != 0 && collision.gameObject.CompareTag("Player"))
@@ -17,7 +17,7 @@ public class BlockHit : MonoBehaviour
             }
         }
     }
-
+    // what happens, after hit
     private void Hit()
     {
         SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
@@ -35,7 +35,7 @@ public class BlockHit : MonoBehaviour
 
         StartCoroutine(Animate());
     }
-
+    // block jump
     private IEnumerator Animate()
     {
         animating = true;
@@ -48,7 +48,6 @@ public class BlockHit : MonoBehaviour
 
         animating = false;
     }
-
     private IEnumerator Move(Vector3 from, Vector3 to)
     {
         float elapsed = 0f;
